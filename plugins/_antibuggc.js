@@ -38,3 +38,4 @@ Nama: ${m.isGroup ? this.getName(m.chat) : this.getName(m.sender)}
     }
   }
 }
+
