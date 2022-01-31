@@ -58,9 +58,9 @@ global.author = 'WhatsApp Bot' // ganti aja
 
 //yyy
 bc = 'MURSID' //MursidXyz Broadcast
-footer = '\n©MursidXyz'
-namabot = 'GuraBot'
-namalu = 'SixxTenz'
+footer = '\n©мυяѕι∂'
+namabot = 'WhatsApp Bot'
+namalu = 'Mursid'
 
 
 // 
