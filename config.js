@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/CpJYJ01ZmgDLNWiBz7G6PE', ''] // ganti jadi group lu
-global.owner = ['6285742344873', '6281244706456', '6283196328097'] // Put your number here //owner eval
-global.kontak = ['6285742344873', '6281244706456', '6283196328097','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
+global.owner = ['6288233832771', '6288233832771', '6288233832771'] // Put your number here //owner eval
+global.kontak = ['6288233832771', '6288233832771', '6288233832771','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['6285742344873', '6281244706456', '6283196328097', '6281913868660'] // Premium user has unlimited limit
+global.prems = ['6288233832771', '6288233832771', '6288233832771', '6288233832771'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -47,18 +47,18 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'SixxTenz'
-namakontak2 = 'Kimiko'
+namakontak1 = 'Mursid (Owner)'
+namakontak2 = 'Mursid Ganteng'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By SixxTenz' // ganti aja
-global.author = 'SixxTenz' // ganti aja
+global.packname = 'Mursid' // ganti aja
+global.author = 'WhatsApp Bot' // ganti aja
 
 //yyy
-bc = 'GuraBot' //AlyaaXd Broadcast
-footer = '\n©GuraBot'
+bc = 'MURSID' //MursidXyz Broadcast
+footer = '\n©MursidXyz'
 namabot = 'GuraBot'
 namalu = 'SixxTenz'
 
@@ -67,7 +67,7 @@ namalu = 'SixxTenz'
 wait = '_*Tunggu Sebentar...*_'
 global.wait = '_*Tunggu Sebentar...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
-global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
+global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padanya,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
