@@ -1,5 +1,5 @@
 {
-  "name": "GuraBot",
+  "name": "yukibot-v17",
   "version": "1.5.0",
   "description": "Pengodean Ulang Dari Wabot-aq",
   "depecrated": false,
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/AlyaaXd/rfkbot",
+  "homepage": "https://github.com/saipulanuar/rfkbot",
   "author": {
-    "name": "AlyaaXd"
+    "name": "KingOfBear"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlyaaXd/rfkbot.git"
+    "url": "git+https://github.com/saipulanuar/rfkbot.git"
   },
   "bugs": {
-    "url": "https://github.com/AlyaaXd/rfkbot/issues"
+    "url": "https://github.com/saipulanuar/rfkbot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
