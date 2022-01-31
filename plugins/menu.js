@@ -25,7 +25,7 @@ const defaultMenu = {
 ┃
 ┃⬡ Uptime: *%uptime (%muptime)*
 ┃⬡ Database: %rtotalreg dari %totalreg
-┃⬡ Github:
+┃⬡ Sc :
 ┃⬡ https://github.com/AlyaaXd/rfkbot
 ┃
 ┗━━━━━━⬣`.trimStart(),
@@ -241,10 +241,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┃
 ┃⬡ Script by Alyaa
-┃⬡ Github Name : AlyaaXd
-┃⬡ Yt : AlyaaXd
+┃⬡ Github Name : SixxTenz
+┃⬡ Yt : SixxTenzz Bot
 ┃⬡ Run bot : Heroku
-┃⬡ Tipe SC rfkbot
 ┗━━━━━━━━⬣`.trim(),
           "buttonText": "Klik Disini",
           "listType": "SINGLE_SELECT",
@@ -281,7 +280,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "rowId": ".? xp"
                 },  {
                   "title": "[🔞] NSFW",
-                  "description": "Menu Bokep",
+                  "description": "Jangan Pake",
                   "rowId": ".? nsfw"
                 }, {
                   "title": "[🖼️] Random Image",
