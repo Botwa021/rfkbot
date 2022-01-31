@@ -60,7 +60,7 @@ global.author = 'SixxTenz' // ganti aja
 bc = 'GuraBot' //AlyaaXd Broadcast
 footer = '\n©GuraBot'
 namabot = 'GuraBot'
-namalu = 'GuraBot'
+namalu = 'SixxTenz'
 
 
 // 
