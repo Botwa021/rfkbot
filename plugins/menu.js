@@ -25,10 +25,16 @@ const defaultMenu = {
 ┃
 ┃⬡ Uptime: %uptime (%muptime)
 ┃⬡ Database: %rtotalreg dari %totalreg
-┃⬡ Group:
-┃⬡ https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau
+┃⬡ Instagram:
+┃⬡ https://Instagram.com/mursid.st
 ┃
-┗━━━━━━⬣`.trimStart(),
+┗━━━━━━⬣
+┏━━〔 Grup 〕━⬣
+┃https://bit.ly/3nY1FIj
+┗━━⬣
+┏━━〔 Github Original 〕━⬣
+┃https://bit.ly/3L09x64
+┗━━⬣`.trimStart(),
     header: '┏━━〔 %category 〕━⬣',
     body: '┃⬡%cmd %islimit %isPremium',
     footer: '┗━━⬣\n',
