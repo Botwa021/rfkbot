@@ -34,7 +34,7 @@ m.reply(wait)
     if (stiker) await conn.sendMessage(m.chat, stiker, MessageType.sticker, {
       quoted: m
     })
-    else throw `Gagal${m.isGroup ? ', balas gambarnya!' : ''}`
+    else throw `Gagal${m.isGroup ? ', balas gambarnya om!' : ''}`
   }
 }
 handler.help = ['stiker ', 'stiker <url>']
