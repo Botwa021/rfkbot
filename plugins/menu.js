@@ -8,7 +8,7 @@ const chats = conn.chats.all()
 const groups = chats.filter(v => v.jid.endsWith('g.us'))
 const defaultMenu = {
     before: `
-┏━━〔 ${namabot} 〕━⬣
+┏━━〔 ${namabot} 〕━❏
 ┃⬡ Hai, %name!
 ┃
 ┃⬡ Tersisa %limit Limit
@@ -28,16 +28,16 @@ const defaultMenu = {
 ┃⬡ Instagram:
 ┃⬡ https://Instagram.com/mursid.st
 ┃
-┗━━━━━━⬣
-┏━━〔 Grup 〕━⬣
-┃https://bit.ly/3nY1FIj
-┗━━⬣
-┏━━〔 Github Original 〕━⬣
-┃https://bit.ly/3L09x64
-┗━━⬣`.trimStart(),
-    header: '┏━━〔 %category 〕━⬣',
+┗━━━━━━❏
+┏━━〔 Grup 〕━❏
+┃⬡https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau
+┗━━❏
+┏━━〔 Github 〕━❏
+┃⬡https://github.com/Botwa021/Mursid
+┗━━❏`.trimStart(),
+    header: '┏━━〔 %category 〕━❏',
     body: '┃⬡%cmd %islimit %isPremium',
-    footer: '┗━━⬣\n',
+    footer: '┗━━❏\n',
     after: `
 %npmname@^%version
 ${'%npmdesc'}
