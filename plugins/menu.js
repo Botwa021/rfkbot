@@ -29,13 +29,14 @@ const defaultMenu = {
 ┃⬡ *https://Instagram.com/mursid.st*
 ┃
 ┗━━━━━━❏
-┏━━〔 Note 〕━❏
-┃⬡ *DATA KAMU TIDAK AKAN TERSIMPAN DI DATABASE BOT*
-┃⬡ *GUNAKAN BOT DENGAN BIJAK, MELANGGAR BLOK*
-┃⬡ *DONASI KAK YA SEIKHLASNYA*
+┏━━〔 *Note* 〕━❏
+┃⬡ *DATAMU TIDAK DI SIMPAN BOT*
+┃⬡ *GUNAKAN BOT DENGAN BIJAK*
+┃⬡ *DONASI YA KAK SEIKHLASNYA*
 ┗━━❏
-┏━━〔 Grup 〕━❏
-┃⬡ *https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau*
+┏━━〔 *Grup • Github* 〕━❏
+┃⬡ *https://bit.ly/3Lah95N*
+┃⬡ *github.com/botwa021/mursid*
 ┗━━❏`.trimStart(),
     header: '┏━━〔 %category 〕━❏',
     body: '┃⬡%cmd %islimit %isPremium',
