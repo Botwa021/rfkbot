@@ -26,18 +26,16 @@ const defaultMenu = {
 ┃⬡ Uptime: %uptime (%muptime)
 ┃⬡ Database: %rtotalreg dari %totalreg
 ┃⬡ Instagram:
-┃⬡ https://Instagram.com/mursid.st
+┃⬡ *https://Instagram.com/mursid.st*
 ┃
 ┗━━━━━━❏
-┏━━〔 NOTE 〕━❏
+┏━━〔 Note 〕━❏
 ┃⬡ *DATA KAMU TIDAK AKAN TERSIMPAN DI DATABASE BOT*
-┃⬡ *JADI GUNAKAN BOT DENGAN BIJAK, MELANGGAR BLOK!*
-┃⬡ *DONASI KAK SEIKHLASNYA BUAT BOT*
-┃⬡ *JAGA KESEHATAN YA KAK<3*
+┃⬡ *GUNAKAN BOT DENGAN BIJAK, MELANGGAR BLOK*
+┃⬡ *DONASI KAK YA SEIKHLASNYA*
 ┗━━❏
-┏━━〔 Grup • Github 〕━❏
+┏━━〔 Grup 〕━❏
 ┃⬡ *https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau*
-┃⬡ *https://github.com/Botwa021/mursid
 ┗━━❏`.trimStart(),
     header: '┏━━〔 %category 〕━❏',
     body: '┃⬡%cmd %islimit %isPremium',
